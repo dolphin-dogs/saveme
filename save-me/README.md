@@ -1,5 +1,7 @@
 # sv
 
+npm i -D @skeletonlabs/skeleton @skeletonlabs/skeleton-svelte
+
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
 
 ## Creating a project
